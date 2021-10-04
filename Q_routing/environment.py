@@ -1,4 +1,3 @@
-#!/usr/bin/env python
 
 """Abstract environment base class for RL-Glue-py.
 """
